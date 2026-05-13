@@ -628,7 +628,7 @@ This gives sustained high clock speeds without thermal runaway.
 If this guide helped you and saved you hours of frustration,
 consider buying me a coffee:
 
-BTC: 3BouxoBDXKAvnv7nhX8HMaUSznvFyEvNvL
+
 USDT (TRC20): TCiNc5Ri2cuWt1gWDLigL5MCS9kMqSRnRA
 
 
