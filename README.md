@@ -621,6 +621,17 @@ This gives sustained high clock speeds without thermal runaway.
 
 -----
 
+---
+
+## Support This Guide
+
+If this guide helped you and saved you hours of frustration,
+consider buying me a coffee:
+
+BTC: 3BouxoBDXKAvnv7nhX8HMaUSznvFyEvNvL
+USDT (TRC20): TCiNc5Ri2cuWt1gWDLigL5MCS9kMqSRnRA
+
+
 *Guide by CkSenpai — HP Victus 15 FA2082WM owner*
 *Tested at 30C ambient temperature*
 *All tests on fresh Windows install with manufacturer drivers*
